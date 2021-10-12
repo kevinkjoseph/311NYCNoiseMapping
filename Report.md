@@ -7,4 +7,8 @@ URB-UY 3834 Urban Data Mapping </h1>
 
 ## Maps
 
+#### Deliverable 1: Point representation: 311 complaints by descriptor 
+
 ![Types of Complaints](https://user-images.githubusercontent.com/44895177/136876572-632a8873-d5dc-4831-b744-8f4c3aa4c613.png)
+
+#### Deliverable 2: Graduated map of noise complaints by NTA
