@@ -24,7 +24,7 @@ URB-UY 3834 Urban Data Mapping </h1>
 
 #### Which areas of Manhattan had the largest number of 311 noise complaints? What are some reasons you can think of for these trends?
 
-
+Areas in Lower Manhattan such as Chinatown, Financial District, East Village, Garment District and others areas such as West 86th Street and Yorkville have the largest number of 311 noise complaints. This could be because of the large number of population living in these areas. For example, according to 2010 NTA density data, Yorville and East Village are some of the most densest areas in Manhattan with more than 150 people living per acre. 
 #### What are some trends you noticed regarding the descriptor for noise complaints?
 
 
