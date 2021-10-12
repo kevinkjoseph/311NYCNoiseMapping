@@ -17,3 +17,5 @@ URB-UY 3834 Urban Data Mapping </h1>
 
 #### Deliverable 3: Map of your data- Types of Complaints in a Map with number of 311 Complaints relative to the population in respective NTA
 
+![PopulationrealtedComplaints](https://user-images.githubusercontent.com/44895177/136881732-b663fdf4-6112-4276-b546-80803aefe149.png)
+
