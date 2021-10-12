@@ -7,3 +7,4 @@ URB-UY 3834 Urban Data Mapping </h1>
 
 ## Maps
 
+![Types of Complaints](https://user-images.githubusercontent.com/44895177/136876572-632a8873-d5dc-4831-b744-8f4c3aa4c613.png)
