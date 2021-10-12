@@ -19,3 +19,15 @@ URB-UY 3834 Urban Data Mapping </h1>
 
 ![PopulationrealtedComplaints](https://user-images.githubusercontent.com/44895177/136881732-b663fdf4-6112-4276-b546-80803aefe149.png)
 
+
+## Insights
+
+#### Which areas of Manhattan had the largest number of 311 noise complaints? What are some reasons you can think of for these trends?
+
+
+#### What are some trends you noticed regarding the descriptor for noise complaints?
+
+
+#### How did the additional data and map changed or reinforced your insights from Q(1)?
+
+
