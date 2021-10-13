@@ -36,6 +36,6 @@ The additional data added was the population of each neighborhood based on NTA i
 
 
 ## References
-[1] https://www1.nyc.gov/assets/planning/download/pdf/planning-level/nyc-population/census2010/m_pl_p2_nta.pdf
-[2] https://nypost.com/2021/08/07/east-village-residents-rattled-by-constant-construction/
-[3] https://www.nytimes.com/2021/09/17/business/retail-vacancies-midtown-manhattan.html
+[1] https://www1.nyc.gov/assets/planning/download/pdf/planning-level/nyc-population/census2010/m_pl_p2_nta.pdf 
+<br> [2] https://nypost.com/2021/08/07/east-village-residents-rattled-by-constant-construction/ </br>
+<br> [3] https://www.nytimes.com/2021/09/17/business/retail-vacancies-midtown-manhattan.html</br>
